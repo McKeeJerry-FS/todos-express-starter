@@ -42,11 +42,8 @@
     "mkdirp": "^1.0.4",
     "morgan": "~1.9.1",
     "passport": "^0.7.0",
-<<<<<<< HEAD
     "passport-openidconnect": "^0.1.2",
-=======
     "passport-local": "^1.0.0",
->>>>>>> aa39abc4fcb3604421b7eacb2a098e4594a77c75
     "pluralize": "^8.0.0",
     "sqlite3": "^5.0.2"
   },
